@@ -1,2 +1,1 @@
-Note
-All tghe requirements are given below: 
+Note: All tghe requirements are given below: 
